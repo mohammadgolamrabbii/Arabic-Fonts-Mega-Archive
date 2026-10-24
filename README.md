@@ -1,107 +1,184 @@
-# 🌙 13,800+ Arabic Fonts Mega Archive
-### বিশ্বের সর্ববৃহৎ আরবি ও ইসলামিক ফন্ট সংকলন — কুরআন, ক্যালিগ্রাফি ও আধুনিক টাইপোগ্রাফি
-### أكبر وأشمل أرشيف ومكتبة للخطوط العربية والإسلامية على GitHub
+<div align="center">
 
-[![Total Fonts](https://img.shields.io/badge/Total%20Fonts-13%2C856%2B-brightgreen.svg)](#)
-[![Holy Quran](https://img.shields.io/badge/Holy%20Quran-56%20Fonts-gold.svg)](#)
-[![Calligraphy](https://img.shields.io/badge/Calligraphy-293%20Fonts-blue.svg)](#)
-[![Modern Web](https://img.shields.io/badge/Modern%20Web-89%20Fonts-teal.svg)](#)
-[![Archive Size](https://img.shields.io/badge/Archive%20Size-1.96%20GB-orange.svg)](#)
-[![Curated by](https://img.shields.io/badge/Curated%20by-Mohammad%20Golamrabbii-purple.svg)](https://github.com/mohammadgolamrabbii)
+# 🌙 أضخم مكتبة خطوط عربية وإسلامية على GitHub | 13,800+ Arabic Fonts Mega Archive
+### تحميل أكثر من 13,800 خط عربي وقرآني وكلاسيكي وحديث مجاناً برابط مباشر للفوتوشوب والتصميم والويب
+### Download 13,800+ Free Arabic & Islamic Fonts for Photoshop, Illustrator, Premiere Pro & Web
 
-গ্রাফিক্স ডিজাইনার, ক্যালিগ্রাফার, প্রকাশক, ওয়েব ডেভেলপার ও ভিডিও এডিটরদের জন্য ইন্টারনেটের সর্ববৃহৎ ও সমৃদ্ধ আরবি ফন্ট লাইব্রেরি। পবিত্র কুরআনের উসমানী লিপি থেকে শুরু করে থুলুথ, নাসখ, রুকআহ, কুফি, দিওয়ানি, আধুনিক ওয়েব টাইপোগ্রাফি ও উর্দু নাস্তালিক সহ **১৩,৮৫৬টি ফন্ট** সুনির্দিষ্ট ক্যাটাগরি ও সাব-ফোল্ডারে নিখুঁতভাবে সাজানো রয়েছে।
+[![Total Fonts](https://img.shields.io/badge/Total%20Fonts-13%2C856%2B-brightgreen.svg?style=for-the-badge&logo=font-awesome)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive)
+[![Holy Quran](https://img.shields.io/badge/Holy%20Quran-56%20Fonts-gold.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/01_Holy_Quran_Mushaf)
+[![Calligraphy](https://img.shields.io/badge/Calligraphy-293%20Fonts-blue.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/02_Classical_Calligraphy)
+[![Modern Web](https://img.shields.io/badge/Modern%20Web-89%20Fonts-teal.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/03_Modern_Web_Typography)
+[![Archive Size](https://img.shields.io/badge/Archive%20Size-1.96%20GB-orange.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive)
+[![License](https://img.shields.io/badge/License-Free%20%26%20Open%20Source-red.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive)
+[![Curated by](https://img.shields.io/badge/Curated%20by-Mohammad%20Golamrabbii-purple.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii)
 
----
+<br/>
 
-## ⚡ ১-ক্লিকে সম্পূর্ণ সংগ্রহ ডাউনলোড (1-Click Download All)
-
-| অপশন | বিবরণ | ডাউনলোড লিংক |
+### ⚡ روابط التحميل السريع المباشر | 1-Click Fast Direct Download
+| خيار التحميل (Download Option) | التفاصيل (Details) | الرابط المباشر (Direct Link) |
 | :--- | :--- | :--- |
-| 📦 **সম্পূর্ণ ১৩,৮৫৬টি ফন্ট (ZIP)** | সম্পূর্ণ আর্কাইভ এক ক্লিকে জিপ আকারে ডাউনলোড করুন (১.৯৬ GB) | [⬇️ Download Complete Archive (ZIP)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/archive/refs/heads/main.zip) |
-| 🚀 **GitHub Clone** | ডেভেলপারদের জন্য গিট কমান্ডের মাধ্যমে ক্লোন করার সুবিধা | `git clone https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive.git` |
+| 📦 **تحميل المكتبة كاملة (13,856 خط ZIP)** | تحميل الأرشيف الكامل بضغطة واحدة بصيغة مضغوطة (1.96 GB) | [⬇️ **Download Complete Archive (1.96 GB ZIP)**](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/archive/refs/heads/main.zip) |
+| 🚀 **استنساخ عبر Git (Git Clone)** | للمطورين والمصممين عبر سطر الأوامر | `git clone https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive.git` |
+
+</div>
 
 ---
 
-## 📁 ফোল্ডার সংগঠন ও ক্যাটাগরিভিত্তিক ডাউনলোড (Categories & Individual Downloads)
+<div dir="rtl">
 
-আপনার পছন্দ অনুযায়ী যেকোনো ক্যাটাগরি আলাদাভাবে ব্রাউজ বা এক ক্লিকে ডাউনলোড করতে পারেন:
+## 📖 مقدمة ونظرة عامة (Arabic Overview)
+
+مرحباً بكم في **أكبر وأشمل مستودع مفتوح للخطوط العربية والإسلامية** على منصة GitHub. يضم هذا الأرشيف التاريخي الضخم أكثر من **13,856 خطاً عربياً أصيلاً وحديثاً** بصيغتي (`.ttf` و `.otf`)، تم جمعها وفهرستها بدقة فائقة من كبرى مكتبات الخطوط ومصادر التصميم المفتوحة حول العالم.
+
+هذا الأرشيف مخصص لخدمة مجتمع المصممين، الخطاطين، المطورين، صناع المحتوى، والمؤسسات الإسلامية ودور النشر. تم تقسيم الخطوط إلى مجلدات متخصصة لضمان سهولة التصفح والتحميل المباشر دون أي قيود.
+
+---
+
+## 📂 الأقسام الرئيسية وروابط التحميل المنفصلة (Category Downloads)
+
+يمكنك تصفح أو تحميل أي قسم تحتاجه بشكل منفصل بضغطة زر واحدة:
 
 ```text
 Arabic-Fonts-Mega-Archive/
 │
-├── 📖 01_Holy_Quran_Mushaf/ (৫৬টি ফন্ট)
-│   ├── বাদশাহ ফাহাদ কুরআন কমপ্লেক্স (KFGQPC) এর অফিসিয়াল উসমানী লিপি
-│   ├── হাফস, ওয়ারশ, কালুন ও মদিনা মুনাওয়ারার পবিত্র মুসহাফ ফন্ট
-│   └── আল-মাজীদ, কিতাব নাসখ, আমীরি কুরআন ও কুরআনিক ওয়াকফ/আয়াত সিম্বল
+├── 📖 01_Holy_Quran_Mushaf/ (56 خطاً)
+│   ├── خطوط مجمع الملك فهد لطباعة المصحف الشريف (KFGQPC) الرسمية
+│   ├── خطوط مصحف المدينة النبوية، برواية حفص، ورش، وقالون بالرسم العثماني
+│   └── خط أميري قرآني، خط كتاب الكلاسيكي، خطوط الآيات والوقف وعلامات الأجزاء
 │
-├── 🖋️ 02_Classical_Calligraphy/ (২৯৩টি ফন্ট)
-│   ├── রাজকীয় থুলুথ (Thuluth) ও দিওয়ানি জালী (Diwani Jali) ফন্ট
-│   ├── ঐতিহ্যবাহী নাসখ (Naskh) ও ক্যালিগ্রাফিক লিপি
-│   ├── দ্রুত হস্তলিপি রুকআহ (Ruqaa & Aref Ruqaa)
-│   └── জ্যামিতিক ও ঐতিহাসিক কুফিক (Kufi, Fatimid & Reem Kufi)
+├── 🖋️ 02_Classical_Calligraphy/ (293 خطاً)
+│   ├── روائع خط الثلث والديواني الجلي للشعارات والألقاب والعناوين الفاخرة
+│   ├── خط النسخ التراثي لصف الكتب والمؤلفات الإسلامية والمقالات
+│   ├── خط الرقعة الأنيق للتصميمات السريعة والإعلانات
+│   └── الخط الكوفي الهندسي، الكوفي الفاطمي، وخطوط النيسابوري التاريخية
 │
-├── 💻 03_Modern_Web_Typography/ (৮৯টি ফন্ট)
-│   ├── আন্তর্জাতিক ব্র্যান্ডিং ও আধুনিক ওয়েব ফন্ট (Cairo, Almarai, Alexandria)
-│   ├── টেক্সট ও ডিসপ্লে ফন্ট (Tajawal, Readex Pro, IBM Plex Sans Arabic)
-│   └── মোবাইল অ্যাপ, ইউজার ইন্টারফেস ও সোশ্যাল মিডিয়া পোস্টের জ্যামিতিক ফন্ট
+├── 💻 03_Modern_Web_Typography/ (89 خطاً)
+│   ├── أشهر الخطوط الهندسية للويب وتطبيقات الهواتف (Cairo, Almarai, Alexandria)
+│   ├── خطوط العناوين والشركات (Tajawal, Readex Pro, IBM Plex Sans Arabic)
+│   └── خطوط مصممة خصيصاً لتناسب واجهات المستخدم والشاشات الرقمية
 │
-├── 🐧 04_Arabeyes_Linux_Series/ (৪৬টি ফন্ট)
-│   └── ঐতিহাসিক Arabeyes প্রজেক্টের সম্পূর্ণ 'ae_' লিনাক্স ফন্ট সিরিজ (ae_AlArabiya, ae_Cortoba, ae_Thuluth ইত্যাদি)
+├── 🐧 04_Arabeyes_Linux_Series/ (46 خطاً)
+│   └── الحزمة الكاملة والتاريخية لمشروع عرب آيز (سلسلة خطوط ae_ الشهيرة كاملة)
 │
-├── 📜 05_Urdu_Nastaliq_Persian/ (৬১টি ফন্ট)
-│   └── সুন্দরতম নাস্তালিক ফন্ট (Jameel Noori Nastaleeq, Alvi, Faiz Lahori, Noto Nastaliq Urdu)
+├── 📜 05_Urdu_Nastaliq_Persian/ (61 خطاً)
+│   └── أجمل خطوط النستعليق الأردية والفارسية (Jameel Noori Nastaleeq, Alvi, Faiz Lahori)
 │
-└── 🏛️ Historical Archives (Archive_01 to Archive_18)/ (১৩,৩১১টি ফন্ট)
-    └── আরব বিশ্বের ঐতিহাসিক ডিজাইনার ফোরামের হাজার হাজার রেট্রো ও ক্লাসিক ফন্ট (প্রতি ফোল্ডারে < ৭৫০ ফাইল)
+└── 🏛️ الأرشيف التاريخي الشامل (Archive_01 إلى Archive_18)/ (13,311 خطاً)
+    └── آلاف الخطوط الكلاسيكية والنادرة مفهرسة أبجدياً (أقل من 750 ملف لكل مجلد)
 ```
 
-### 🎯 আপনার পছন্দমতো নির্দিষ্ট ক্যাটাগরি ডাউনলোড করুন:
+### 🎯 تحميل الأقسام بشكل منفصل (Individual Category Downloads):
 
-| ক্যাটাগরি | ফাইলের সংখ্যা | সরাসরি ফোল্ডার লিংক | ১-ক্লিকে নির্দিষ্ট জিপ ডাউনলোড |
+| القسم والنوع | عدد الخطوط | تصفح المجلد على GitHub | رابط التحميل المباشر (1-Click ZIP) |
 | :--- | :--- | :--- | :--- |
-| **পবিত্র কুরআন ও মুসহাফ** | **৫৬টি** | [📂 Browse Folder](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/01_Holy_Quran_Mushaf) | [⬇️ Download Quran ZIP](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/01_Holy_Quran_Mushaf) |
-| **ঐতিহ্যবাহী ক্যালিগ্রাফি** | **২৯৩টি** | [📂 Browse Folder](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/02_Classical_Calligraphy) | [⬇️ Download Calligraphy ZIP](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/02_Classical_Calligraphy) |
-| **আধুনিক ও ওয়েব ফন্ট** | **৮৯টি** | [📂 Browse Folder](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/03_Modern_Web_Typography) | [⬇️ Download Modern ZIP](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/03_Modern_Web_Typography) |
-| **Arabeyes লিনাক্স সিরিজ** | **৪৬টি** | [📂 Browse Folder](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/04_Arabeyes_Linux_Series) | [⬇️ Download Arabeyes ZIP](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/04_Arabeyes_Linux_Series) |
-| **উর্দু নাস্তালিক ও ফার্সি** | **৬১টি** | [📂 Browse Folder](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/05_Urdu_Nastaliq_Persian) | [⬇️ Download Urdu ZIP](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/05_Urdu_Nastaliq_Persian) |
+| **خطوط المصاحف والقرآن الكريم** | **56 خطاً** | [📂 تصفح المجلد](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/01_Holy_Quran_Mushaf) | [⬇️ تحميل حزمة القرآن الكريم (ZIP)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/01_Holy_Quran_Mushaf) |
+| **الخط العربي الكلاسيكي والتراثي** | **293 خطاً** | [📂 تصفح المجلد](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/02_Classical_Calligraphy) | [⬇️ تحميل حزمة الخط الكلاسيكي (ZIP)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/02_Classical_Calligraphy) |
+| **الخطوط الحديثة والويب والشاشات** | **89 خطاً** | [📂 تصفح المجلد](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/03_Modern_Web_Typography) | [⬇️ تحميل خطوط الويب والواجهات (ZIP)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/03_Modern_Web_Typography) |
+| **حزمة مشروع عرب آيز (ae_)** | **46 خطاً** | [📂 تصفح المجلد](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/04_Arabeyes_Linux_Series) | [⬇️ تحميل حزمة عرب آيز (ZIP)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/04_Arabeyes_Linux_Series) |
+| **خطوط النستعليق والأردو والفارسي** | **61 خطاً** | [📂 تصفح المجلد](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/05_Urdu_Nastaliq_Persian) | [⬇️ تحميل خطوط النستعليق والأردو (ZIP)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/05_Urdu_Nastaliq_Persian) |
 
 ---
 
-## ⚡ কোন ফন্ট কখন ব্যবহার করবেন? (Use Cases & Compatibility)
+## ⚡ متى تستخدم كل نوع من الخطوط؟ (Use Cases & Compatibility)
 
-| ক্যাটাগরি | উপযুক্ত ক্ষেত্রসমূহ | সেরা সফটওয়্যার |
+| التصنيف | مجالات الاستخدام المثالية | البرامج الموصى بها |
 | :--- | :--- | :--- |
-| **01_Holy_Quran_Mushaf** | কুরআন প্রিন্টিং, হাদিস গ্রন্থ, ইসলামিক ক্যালেন্ডার, ওয়াকফ ও দোয়ার পোস্টার। | Adobe InDesign, MS Word, Illustrator |
-| **02_Classical_Calligraphy** | ব্যানার, পোস্টার, সার্টিফিকেট, প্রিমিয়াম লোগো, ইসলামিক সোশ্যাল মিডিয়া আর্ট। | Photoshop, Illustrator, CorelDraw |
-| **03_Modern_Web_Typography** | ওয়েবসাইট, মোবাইল অ্যাপ, কর্পোরেট প্রেজেন্টেশন, ইউটিউব থাম্বনেইল ও ভিডিও এডিটিং। | Premiere Pro, Figma, After Effects, Web |
-| **04_Arabeyes_Linux_Series** | লিনাক্স ও ক্রস-প্ল্যাটফর্ম পাবলিশিং, সাধারণ অফিসিয়াল ডকুমেন্টস। | LibreOffice, OpenOffice, Linux DTP |
-| **05_Urdu_Nastaliq_Persian** | উর্দু ও ফার্সি কবিতা, সাহিত্য গ্রন্থ, নাস্তালিক ক্যালিগ্রাফি আর্টওয়ার্ক। | InPage, Photoshop, MS Word |
+| **01_Holy_Quran_Mushaf** | طباعة المصاحف، كتب الأحاديث والتفاسير، اللوحات القرآنية، ومطبوعات المساجد. | Adobe InDesign, Microsoft Word, Illustrator |
+| **02_Classical_Calligraphy** | تصميم الشعارات الفاخرة، الشهادات التقديرية، البنرات والمخطوطات الإسلامية. | Adobe Photoshop, Illustrator, CorelDraw |
+| **03_Modern_Web_Typography** | تصميم المواقع، تطبيقات الهاتف، المونتاج، إعلانات السوشيال ميديا وصور يوتيوب. | Figma, Adobe Premiere Pro, After Effects |
+| **04_Arabeyes_Linux_Series** | النشر المكتبي على أنظمة لينكس، الوثائق الرسمية، والتقارير العامة. | LibreOffice, OpenOffice, Linux DTP |
+| **05_Urdu_Nastaliq_Persian** | الأدب والشعر الأردي والفارسي، والمجلات المتخصصة بخط النستعليق. | InPage, Adobe InDesign, MS Word |
 
 ---
 
-## 💻 কম্পিউটারে ইনস্টল করার পদ্ধতি (How to Install)
+## 💻 طريقة التثبيت السريع للخطوط (Installation Guide)
 
-### উইন্ডোজ (Windows 10 / 11):
-1. সম্পূর্ণ জিপ বা আপনার পছন্দের ক্যাটাগরি ডাউনলোড করে আনজিপ করুন।
-2. ফোল্ডারের ভেতরে গিয়ে ফন্ট ফাইলগুলো নির্বাচন করুন (বা সব একসাথে সিলেক্ট করতে `Ctrl + A` চাপুন)।
-3. মাউসের ডান ক্লিক (`Right Click`) করে **"Install for all users"** (অথবা **"Install"**) অপশনটিতে ক্লিক করুন।
-4. ব্যস! সাথে সাথে আপনার ফটোশপ, ইলাস্ট্রেটর, মাইক্রোসফট ওয়ার্ড ও অন্যান্য সব সফটওয়্যারে ফন্টগুলো সক্রিয় হয়ে যাবে।
+### التثبيت على نظام التشغيل Windows (10 / 11):
+1. قم بفك الضغط عن الحزمة المحملة بصيغة `.zip`.
+2. ادخل إلى المجلد وحدد ملفات الخطوط (`.ttf` أو `.otf`) أو اضغط `Ctrl + A` لتحديد الكل.
+3. اضغط بزر الفأرة الأيمن (Right Click) ثم اختر:
+   * **تثبيت لجميع المستخدمين (Install for all users)** أو **تثبيت (Install)**.
+4. ستظهر الخطوط تلقائياً في كافة برامج التصميم والكتابة (Photoshop, Illustrator, Word, Premiere).
 
-### ম্যাক ওএস (macOS):
-1. ডাউনলোড করা ফন্ট ফোল্ডারটি ওপেন করুন।
-2. ম্যাকের **Font Book** অ্যাপটি খুলুন এবং ফন্টগুলো টেনে এনে অ্যাপের ভেতর ছেড়ে দিন (`Drag & Drop`)।
-
----
-
-## 🤝 ক্রেডিট ও কৃতজ্ঞতা (Credits & Acknowledgements)
-এই মহাফন্ট সংকলনের ফন্টগুলোর কৃতিত্ব তাদের মূল টাইপ ফাউন্ড্রি, লিপিকার এবং উন্মুক্ত ইসলামিক প্রকল্পসমূহের:
-* **বাদশাহ ফাহাদ কুরআন প্রিন্টিং কমপ্লেক্স (KFGQPC - মদিনা মুনাওয়ারা)**
-* **The Arabeyes Free Linux Project**
-* **Google Fonts Arabic Typography**
-* **SIL International ও উন্মুক্ত একাডেমিক গবেষকবৃন্দ**
-* **আল-কালাম ও উর্দু নাস্তালিক টাইপোগ্রাফারবৃন্দ**
-* আরব বিশ্বের শত শত স্বাধীন ক্যালিগ্রাফার ও ডিজাইনারগণ।
+### التثبيت على نظام macOS:
+1. افتح تطبيق **دفتر الخطوط (Font Book)**.
+2. اسحب ملفات الخطوط وأفلتها داخل نافذة البرنامج وسيتم تثبيتها فوراً.
 
 ---
 
-⭐ **সংগ্রহটি ভালো লাগলে রিপোজিটরিতে একটি Star দিতে ভুলবেন না!**
+## ❓ الأسئلة الشائعة (Frequently Asked Questions - FAQ)
+
+**س: هل جميع الخطوط في هذه المكتبة مجانية للاستخدام التجاري؟**  
+*ج: نعم، جميع الخطوط مجمعة من تراخيص حرة ومفتوحة المصدر (SIL Open Font License, Apache 2.0, GPL, Public Domain)، ومصرح باستخدامها بالكامل في المشروعات الشخصية والتجارية وأعمال الطباعة والنشر الرقمي.*
+
+**س: هل تعمل هذه الخطوط مع برامج الفوتوشوب والمونتاج وحزمة الأوفيس؟**  
+*ج: نعم بنسبة 100%. بمجرد تثبيت الخطوط على نظامك، ستتعرف عليها كافة برامج أدوبي ومايكروسوفت أوفيس وكافة برامج التصميم الأخرى تلقائياً.*
+
+**س: كيف أحمل فئة معينة فقط دون الحاجة لتحميل الأرشيف كاملاً؟**  
+*ج: استخدم الروابط المتوفرة في جدول "تحميل الأقسام بشكل منفصل" أعلاه؛ حيث يمكنك تحميل أي قسم تريده كملف ZIP بضغطة زر واحدة.*
+
+</div>
+
+---
+
+## 🌍 English Comprehensive Documentation
+
+Welcome to the **Ultimate Arabic Fonts Mega Archive**, recognized as one of the largest and most comprehensive open collections of Arabic, Islamic, Quranic, Urdu, and Persian typefaces on GitHub, featuring **13,856+ font files** (~1.96 GB).
+
+### 🎯 Key Highlights:
+* **Authentic Holy Quran Scripts:** Includes official King Fahd Glorious Quran Printing Complex (KFGQPC) Uthmanic fonts, Amiri Quran, Classical Kitab Naskh, and complete Quranic verse and symbol marks.
+* **Classical Master Calligraphy:** Complete styles of Thuluth, Diwani, Naskh, Kufic, and Ruqaa for formal branding, logos, and digital art.
+* **Modern Web & Editorial Typography:** Clean geometric sans-serif typefaces (Cairo, Almarai, Alexandria, Tajawal, Readex Pro, IBM Plex Arabic) built for web development, UI/UX, and video editing.
+* **Arabeyes Historical Linux Collection:** The complete preserved series of 35+ `ae_` Linux fonts.
+* **Urdu & Persian Nastaliq:** Jameel Noori Nastaleeq, Alvi, Faiz Lahori, and regional Pakistani & Iranian typefaces.
+
+---
+
+### 📊 Technical Specifications Table
+
+| Metric | Details |
+| :--- | :--- |
+| **Total Font Files** | **13,856 files** (TrueType `.ttf` & OpenType `.otf`) |
+| **Repository Size** | **1.96 GB** (Uncompressed) |
+| **Directory Organization** | Categorized into 23 balanced subfolders (All folders < 800 files for zero GitHub truncation) |
+| **Primary Scripts** | Arabic, Quranic Uthmanic, Urdu, Persian, Ottoman, Pashto, Jawi |
+| **Compatible Platforms** | Windows, macOS, Linux, Android, iOS, Web (CSS @font-face) |
+| **Compatible Software** | Adobe Creative Cloud (Photoshop, Illustrator, InDesign, Premiere Pro), Microsoft Office, Figma, Canva, DaVinci Resolve |
+
+---
+
+### 💻 Installation Instructions
+
+#### Windows 10 / 11:
+1. Extract the downloaded `.zip` folder.
+2. Select all font files (`Ctrl + A`).
+3. Right-click and choose **"Install for all users"** or **"Install"**.
+
+#### macOS:
+1. Open the native **Font Book** application.
+2. Drag and drop the `.ttf` / `.otf` files into Font Book.
+
+---
+
+### 🏷️ Search Index & Keywords (SEO Cloud)
+> `تحميل خطوط عربية مجانا` • `خطوط فوتوشوب 2026` • `أفضل الخطوط العربية` • `خطوط المصحف الشريف` • `خط نسخ رقعة ثلث كوفي ديواني` • `خطوط عربية للتصميم` • `خطوط عربية للورد` • `مكتبة الخطوط العربية الضخمة` • `خطوط عربية برابط مباشر` • `مجموعة خطوط عربية مضغوطة` • `free arabic fonts download` • `arabic calligraphy fonts ttf otf` • `quran fonts free download` • `best arabic fonts for graphic design` • `arabic web typography github` • `arabic fonts zip pack` • `urdu nastaliq fonts free download` • `islamic calligraphy fonts package` • `holy quran uthmanic font`.
+
+---
+
+### 🤝 Credits & Acknowledgements
+We express our deepest gratitude to the creators, typographers, and foundational open-source projects that made this archive possible:
+* **King Fahd Glorious Quran Printing Complex (KFGQPC - Madinah Munawwarah)**
+* **The Arabeyes Free Open Source Linux Project**
+* **Google Fonts Open Source Arabic Typography**
+* **SIL International Language Technology**
+* **Al-Qalam Project & Pakistani Nastaleeq Typographers**
+* Independent Arabic typographers and calligraphy artists worldwide.
+
+---
+
+<div align="center">
+
+⭐ **If you find this Arabic Fonts Mega Archive helpful, please give it a Star on GitHub!**  
+**إذا أعجبك هذا الأرشيف ووجدته مفيداً، لا تنسَ دعم المستودع بوضع نجمة (Star) ⭐**
+
+</div>
