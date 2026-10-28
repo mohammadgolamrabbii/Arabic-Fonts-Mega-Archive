@@ -10,6 +10,7 @@
 [![Modern Web](https://img.shields.io/badge/Modern%20Web-89%20Fonts-teal.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/tree/main/03_Modern_Web_Typography)
 [![Archive Size](https://img.shields.io/badge/Archive%20Size-1.96%20GB-orange.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive)
 [![License](https://img.shields.io/badge/License-Free%20%26%20Open%20Source-red.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive)
+[![Archive.org](https://img.shields.io/badge/Archive.org-Permanent_Mirror-000000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation-arabic-fonts)
 [![Curated by](https://img.shields.io/badge/Curated%20by-Mohammad%20Golamrabbii-purple.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii)
 
 <br/>
@@ -17,6 +18,7 @@
 ### ⚡ روابط التحميل السريع المباشر | 1-Click Fast Direct Download
 | خيار التحميل (Download Option) | التفاصيل (Details) | الرابط المباشر (Direct Link) |
 | :--- | :--- | :--- |
+| 🏛️ **مرآة أرشيف الإنترنت الدائمة (Archive.org)** | تحميل مجلدات الأرشيف الأربعة وتورنت بدون حدود سرعة | [⬇️ **Download 4 Master Volumes on Archive.org**](https://archive.org/details/open-typography-foundation-arabic-fonts) |
 | 📦 **تحميل المكتبة كاملة (13,856 خط ZIP)** | تحميل الأرشيف الكامل بضغطة واحدة بصيغة مضغوطة (1.96 GB) | [⬇️ **Download Complete Archive (1.96 GB ZIP)**](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive/archive/refs/heads/main.zip) |
 | 🚀 **استنساخ عبر Git (Git Clone)** | للمطورين والمصممين عبر سطر الأوامر | `git clone https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive.git` |
 
